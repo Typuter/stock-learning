@@ -1,0 +1,67 @@
+{
+  "SPY": [
+    { "symbol": "SPY", "date": "2026-06-15", "open": 745.20, "high": 757.10, "low": 744.80, "close": 756.54, "volume": 0 },
+    { "symbol": "SPY", "date": "2026-06-12", "open": 738.50, "high": 742.80, "low": 736.90, "close": 741.75, "volume": 0 },
+    { "symbol": "SPY", "date": "2026-06-11", "open": 728.76, "high": 740.00, "low": 724.41, "close": 737.76, "volume": 86330522 },
+    { "symbol": "SPY", "date": "2026-06-10", "open": 733.39, "high": 738.38, "low": 725.33, "close": 725.43, "volume": 60341349 },
+    { "symbol": "SPY", "date": "2026-06-09", "open": 743.63, "high": 746.90, "low": 722.59, "close": 737.05, "volume": 87683517 },
+    { "symbol": "SPY", "date": "2026-06-08", "open": 743.36, "high": 745.34, "low": 738.19, "close": 739.22, "volume": 49319144 },
+    { "symbol": "SPY", "date": "2026-06-05", "open": 752.31, "high": 752.82, "low": 735.53, "close": 737.55, "volume": 93989416 }
+  ],
+  "QQQ": [
+    { "symbol": "QQQ", "date": "2026-06-12", "open": 718.50, "high": 723.40, "low": 716.20, "close": 722.20, "volume": 0 },
+    { "symbol": "QQQ", "date": "2026-06-11", "open": 699.29, "high": 718.37, "low": 695.00, "close": 717.12, "volume": 71798857 },
+    { "symbol": "QQQ", "date": "2026-06-10", "open": 701.66, "high": 711.28, "low": 692.93, "close": 693.69, "volume": 65334283 },
+    { "symbol": "QQQ", "date": "2026-06-09", "open": 722.98, "high": 725.66, "low": 686.37, "close": 707.83, "volume": 91932171 },
+    { "symbol": "QQQ", "date": "2026-06-08", "open": 717.81, "high": 723.03, "low": 713.07, "close": 716.07, "volume": 47401451 },
+    { "symbol": "QQQ", "date": "2026-06-05", "open": 730.06, "high": 731.69, "low": 704.32, "close": 705.06, "volume": 99606571 }
+  ],
+  "AAPL": [
+    { "symbol": "AAPL", "date": "2026-06-12", "open": 293.50, "high": 295.10, "low": 289.80, "close": 290.58, "volume": 0 },
+    { "symbol": "AAPL", "date": "2026-06-11", "open": 293.72, "high": 297.00, "low": 289.59, "close": 295.63, "volume": 42572497 },
+    { "symbol": "AAPL", "date": "2026-06-10", "open": 290.74, "high": 294.75, "low": 287.38, "close": 291.58, "volume": 52793266 },
+    { "symbol": "AAPL", "date": "2026-06-09", "open": 300.28, "high": 300.75, "low": 287.78, "close": 290.55, "volume": 70108847 },
+    { "symbol": "AAPL", "date": "2026-06-08", "open": 308.74, "high": 317.40, "low": 301.17, "close": 301.54, "volume": 77949082 },
+    { "symbol": "AAPL", "date": "2026-06-05", "open": 312.86, "high": 315.17, "low": 307.15, "close": 307.34, "volume": 65310502 }
+  ],
+  "TSLA": [
+    { "symbol": "TSLA", "date": "2026-06-12", "open": 399.80, "high": 403.50, "low": 397.20, "close": 401.29, "volume": 0 },
+    { "symbol": "TSLA", "date": "2026-06-11", "open": 388.28, "high": 399.54, "low": 380.66, "close": 399.15, "volume": 45324348 },
+    { "symbol": "TSLA", "date": "2026-06-10", "open": 391.54, "high": 397.09, "low": 380.15, "close": 381.59, "volume": 49695583 },
+    { "symbol": "TSLA", "date": "2026-06-09", "open": 411.03, "high": 418.50, "low": 384.24, "close": 396.68, "volume": 59940230 },
+    { "symbol": "TSLA", "date": "2026-06-08", "open": 396.33, "high": 412.94, "low": 394.72, "close": 408.95, "volume": 50328834 },
+    { "symbol": "TSLA", "date": "2026-06-05", "open": 420.50, "high": 424.68, "low": 388.59, "close": 391.00, "volume": 63420177 }
+  ],
+  "MSFT": [
+    { "symbol": "MSFT", "date": "2026-06-12", "open": 389.50, "high": 391.20, "low": 386.80, "close": 387.94, "volume": 0 },
+    { "symbol": "MSFT", "date": "2026-06-11", "open": 395.21, "high": 396.85, "low": 384.00, "close": 390.34, "volume": 47224135 },
+    { "symbol": "MSFT", "date": "2026-06-10", "open": 398.55, "high": 405.04, "low": 397.16, "close": 397.36, "volume": 32576041 },
+    { "symbol": "MSFT", "date": "2026-06-09", "open": 409.03, "high": 411.98, "low": 398.48, "close": 403.41, "volume": 35317302 },
+    { "symbol": "MSFT", "date": "2026-06-08", "open": 414.14, "high": 417.16, "low": 408.56, "close": 411.74, "volume": 32086714 },
+    { "symbol": "MSFT", "date": "2026-06-05", "open": 428.34, "high": 429.47, "low": 414.40, "close": 416.67, "volume": 34782164 }
+  ],
+  "AMZN": [
+    { "symbol": "AMZN", "date": "2026-06-12", "open": 240.80, "high": 241.50, "low": 235.90, "close": 236.63, "volume": 0 },
+    { "symbol": "AMZN", "date": "2026-06-11", "open": 237.93, "high": 242.14, "low": 235.18, "close": 241.51, "volume": 41335399 },
+    { "symbol": "AMZN", "date": "2026-06-10", "open": 243.61, "high": 244.07, "low": 237.45, "close": 238.00, "volume": 38590237 },
+    { "symbol": "AMZN", "date": "2026-06-09", "open": 247.73, "high": 250.43, "low": 240.40, "close": 244.19, "volume": 44425363 },
+    { "symbol": "AMZN", "date": "2026-06-08", "open": 246.68, "high": 249.42, "low": 243.36, "close": 245.22, "volume": 33899525 },
+    { "symbol": "AMZN", "date": "2026-06-05", "open": 254.26, "high": 256.38, "low": 245.78, "close": 246.03, "volume": 55607844 }
+  ],
+  "GOOGL": [
+    { "symbol": "GOOGL", "date": "2026-06-12", "open": 358.50, "high": 362.40, "low": 357.80, "close": 361.24, "volume": 0 },
+    { "symbol": "GOOGL", "date": "2026-06-11", "open": 355.93, "high": 358.80, "low": 346.36, "close": 357.77, "volume": 35538165 },
+    { "symbol": "GOOGL", "date": "2026-06-10", "open": 363.19, "high": 368.56, "low": 355.20, "close": 356.38, "volume": 32357132 },
+    { "symbol": "GOOGL", "date": "2026-06-09", "open": 367.09, "high": 372.08, "low": 357.30, "close": 364.26, "volume": 29535072 },
+    { "symbol": "GOOGL", "date": "2026-06-08", "open": 365.18, "high": 366.20, "low": 360.53, "close": 363.31, "volume": 27942464 },
+    { "symbol": "GOOGL", "date": "2026-06-05", "open": 366.34, "high": 372.08, "low": 364.12, "close": 368.53, "volume": 37471206 }
+  ],
+  "NVDA": [
+    { "symbol": "NVDA", "date": "2026-06-12", "open": 204.20, "high": 206.30, "low": 203.50, "close": 205.02, "volume": 0 },
+    { "symbol": "NVDA", "date": "2026-06-11", "open": 201.49, "high": 205.66, "low": 199.54, "close": 204.87, "volume": 158643204 },
+    { "symbol": "NVDA", "date": "2026-06-10", "open": 204.43, "high": 207.22, "low": 199.92, "close": 200.42, "volume": 161746587 },
+    { "symbol": "NVDA", "date": "2026-06-09", "open": 210.62, "high": 211.40, "low": 199.34, "close": 208.19, "volume": 180962450 },
+    { "symbol": "NVDA", "date": "2026-06-08", "open": 210.18, "high": 210.47, "low": 206.00, "close": 208.64, "volume": 138372837 },
+    { "symbol": "NVDA", "date": "2026-06-05", "open": 214.53, "high": 214.87, "low": 204.33, "close": 205.10, "volume": 219655531 }
+  ]
+}

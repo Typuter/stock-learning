@@ -1,0 +1,145 @@
+[
+  {
+    "id": "pred-020",
+    "symbol": "NVDA",
+    "createdAt": "2026-06-15T16:30:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -1.0,
+    "predictedRangeHigh": 6.0,
+    "confidence": 72,
+    "signal": "long",
+    "reasoning": ["Leading today's rally +3.5%, reclaiming $210+ level", "Semiconductor momentum returning after May selloff", "Support at $200 held strongly — now breaking higher"]
+  },
+  {
+    "id": "pred-021",
+    "symbol": "GOOGL",
+    "createdAt": "2026-06-15T16:30:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -1.0,
+    "predictedRangeHigh": 5.0,
+    "confidence": 70,
+    "signal": "long",
+    "reasoning": ["Consistent relative strength during selloff AND recovery", "+3.2% today confirms buyer interest from $346 low", "Rotation into GOOGL as value play in mega-cap tech"]
+  },
+  {
+    "id": "pred-022",
+    "symbol": "AMZN",
+    "createdAt": "2026-06-15T16:30:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -1.5,
+    "predictedRangeHigh": 5.5,
+    "confidence": 68,
+    "signal": "long",
+    "reasoning": ["Strongest reversal today +3.5% — was weakest last week", "Reclaiming $245 level that was previous support", "V-bottom pattern: sharp selloff → sharp recovery = bullish"]
+  },
+  {
+    "id": "pred-023",
+    "symbol": "QQQ",
+    "createdAt": "2026-06-15T16:30:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -1.0,
+    "predictedRangeHigh": 4.0,
+    "confidence": 67,
+    "signal": "long",
+    "reasoning": ["Broad tech rally +3.2%, all components green", "Reclaiming $740+ level — was resistance, now support", "Pattern: selloffs complete in 3-5 days confirmed again"]
+  },
+  {
+    "id": "pred-024",
+    "symbol": "SPY",
+    "createdAt": "2026-06-15T16:30:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -1.0,
+    "predictedRangeHigh": 3.0,
+    "confidence": 66,
+    "signal": "long",
+    "reasoning": ["Rally continuation day 3 — reclaiming pre-selloff levels", "$756 approaching May highs ($758) — breakout watch", "Broad participation: all 8 tickers green today"]
+  },
+  {
+    "id": "pred-025",
+    "symbol": "TSLA",
+    "createdAt": "2026-06-15T16:30:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -2.0,
+    "predictedRangeHigh": 5.0,
+    "confidence": 65,
+    "signal": "long",
+    "reasoning": ["Third consecutive green day, momentum building from $381 low", "Reclaimed $400 and holding above it", "Lagging peers today (+1.3% vs market +2-3%) — could catch up or signal exhaustion"]
+  },
+  {
+    "id": "pred-026",
+    "symbol": "MSFT",
+    "createdAt": "2026-06-15T16:30:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -2.0,
+    "predictedRangeHigh": 4.0,
+    "confidence": 62,
+    "signal": "hold",
+    "reasoning": ["Strong bounce today +2.7% but was the weakest last week", "Reclaiming $400 is encouraging but earnings concerns persist", "Need to see sustained follow-through before LONG call"]
+  },
+  {
+    "id": "pred-027",
+    "symbol": "AAPL",
+    "createdAt": "2026-06-15T16:30:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -2.0,
+    "predictedRangeHigh": 3.0,
+    "confidence": 60,
+    "signal": "hold",
+    "reasoning": ["Recovering +2.1% but still below $300 resistance", "Watching whether it can break and hold $300 this week", "Lower confidence until it proves it can hold above that level"]
+  },
+  {
+    "id": "pred-010",
+    "symbol": "TSLA",
+    "createdAt": "2026-06-12T18:40:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -2.0,
+    "predictedRangeHigh": 7.5,
+    "confidence": 68,
+    "signal": "long",
+    "reasoning": ["Back-to-back recovery days (+4.6% June 11, +0.5% June 12) showing momentum", "Reclaimed $400 psychological level", "Sharp V-bottom from $381 low suggests strong buy-the-dip interest"]
+  },
+  {
+    "id": "pred-011",
+    "symbol": "GOOGL",
+    "createdAt": "2026-06-12T18:40:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -1.5,
+    "predictedRangeHigh": 5.0,
+    "confidence": 66,
+    "signal": "long",
+    "reasoning": ["Relative strength during selloff", "Strong bounce from $346 intraday low", "Today +0.97% while AAPL/AMZN/MSFT are red"]
+  },
+  {
+    "id": "pred-012",
+    "symbol": "SPY",
+    "createdAt": "2026-06-12T18:40:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -1.0,
+    "predictedRangeHigh": 3.0,
+    "confidence": 65,
+    "signal": "long",
+    "reasoning": ["Two consecutive green days after sharp selloff", "Broad index recovering", "Key test: needs to hold above $737"]
+  },
+  {
+    "id": "pred-013",
+    "symbol": "MSFT",
+    "createdAt": "2026-06-12T18:40:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -5.0,
+    "predictedRangeHigh": 1.0,
+    "confidence": 67,
+    "signal": "short",
+    "reasoning": ["15-day downtrend unbroken", "Red while SPY/QQQ green — extreme relative weakness", "No buying interest on bounce day"]
+  },
+  {
+    "id": "pred-014",
+    "symbol": "AMZN",
+    "createdAt": "2026-06-12T18:40:00.000Z",
+    "timeframe": "7d",
+    "predictedRangeLow": -4.0,
+    "predictedRangeHigh": 1.5,
+    "confidence": 65,
+    "signal": "short",
+    "reasoning": ["Making new lows while market bounces", "Down 2% on green market day", "Broke below June 11 close immediately"]
+  }
+]
